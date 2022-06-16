@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Intrakos
-- 👀 I’m interested in software develoipment using languges such as Java and C#
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on any projects that will further develop my knowledge on Java
+- 👀 I’m interested in software develoipment using languges such as HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on any projects that will further develop my knowledge on Web Development
 - 📫 How to reach me on Discord - Intrakos#0647
 
 <!---
